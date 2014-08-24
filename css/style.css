@@ -4,4 +4,6 @@
 
 .navbar-default{min-height:60px;background-color:#fff}
 
+.project-page{padding-top:100px}.project-page .projects .project{min-height:600px;padding:25px 30px;margin:25px;background:#fff0c2}.project-page .projects .project.new-project{min-height:200px}.project-page .projects .project .name{color:#333}.project-page .projects .project p,.project-page .projects .project .add{color:#999}.project-page .projects .project .workers{margin-top:20px}.project-page .projects .project .workers .worker{width:75px;padding:0;margin:15px 15px 15px 0;border-radius:50%}.project-page .projects .project .workers .worker :not(first-child){padding:15px}
+
 .welcome-page{padding-top:150px;text-align:center}.welcome-page p{color:#999}
