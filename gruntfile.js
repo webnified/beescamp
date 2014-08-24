@@ -12,7 +12,9 @@ module.exports = function(grunt) {
 			  		compress: true
 			  	},
 			  	files: {
-			  		'css/responsive-styles.css': ['less/style.less']
+			  		'css/style.css': [
+			  			'less/*.less',
+			  		]
 			  	}
 
 		  	}
