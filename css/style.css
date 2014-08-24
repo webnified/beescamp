@@ -1,5 +1,7 @@
 @import url('font/font.css');body{font-family:Raleway,"Helvetica Neue",Helvetica,sans-serif;font-size:18px;font-weight:lighter;line-height:32px}.container-narrow{width:700px;margin:0 auto}#brand-logo{width:30px}.headline{font-family:mikadobold,"Helvetica Neue",Helvetica,sans-serif}
 
-.main-page{padding:150px 0}.main-page .headline{margin-bottom:20px;font-size:2em;font-weight:bold;line-height:1.4em;text-align:center}.main-page .lead-image{display:block;width:400px;margin:0 auto}.main-page .lead{color:#999;text-align:center}.main-page .try-out{padding-top:50px;text-align:center}.main-page .try-out .btn{font-size:1.1em}
+.main-page{padding:150px 0;text-align:center}.main-page .headline{margin-bottom:20px;font-size:2em;font-weight:bold;line-height:1.4em}.main-page .lead-image{display:block;width:400px;margin:0 auto}.main-page .lead{color:#999}.main-page .try-out{padding-top:50px}.main-page .try-out .btn{font-size:1.1em}
 
 .navbar-default{min-height:60px;background-color:#fff}
+
+.welcome-page{padding-top:150px;text-align:center}.welcome-page p{color:#999}
