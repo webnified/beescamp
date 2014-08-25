@@ -1,0 +1,11 @@
+@import url('font/font.css');body{font-family:Raleway,"Helvetica Neue",Helvetica,sans-serif;font-size:18px;font-weight:lighter;line-height:32px}.container-narrow{width:700px;margin:0 auto}#brand-logo{width:30px}.headline{font-family:mikadobold,"Helvetica Neue",Helvetica,sans-serif}
+
+.hive-project-page .sections{margin-top:50px;margin-bottom:25px}.hive-project-page p{color:#999}.hive-project-page .task{padding-top:30px}.hive-project-page .task.done label{color:#777;text-decoration:line-through}.hive-project-page .task .assigned,.hive-project-page .task .desc{padding-left:20px}.hive-project-page .task .worker{width:50px}
+
+.main-page{padding:150px 0;text-align:center}.main-page .headline{margin-bottom:20px;font-size:2em;font-weight:bold;line-height:1.4em}.main-page .lead-image{display:block;width:400px;margin:0 auto}.main-page .lead{color:#999}.main-page .try-out{padding-top:50px}.main-page .try-out .btn{font-size:1.1em}
+
+.navbar-default{min-height:60px;background-color:#fff}
+
+.project-page{padding-top:100px}.project-page .projects .project{min-height:600px;padding:25px 30px;margin:25px;background:#fff0c2}.project-page .projects .project.new-project{min-height:200px}.project-page .projects .project .name{color:#333}.project-page .projects .project p,.project-page .projects .project .add{color:#999}.project-page .projects .project .workers{margin-top:20px}.project-page .projects .project .workers .worker{width:75px;padding:0;margin:15px 15px 15px 0;border-radius:50%}.project-page .projects .project .workers .worker :not(first-child){padding:15px}
+
+.welcome-page{padding-top:150px;text-align:center}.welcome-page p{color:#999}
